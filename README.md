@@ -167,8 +167,8 @@ src/main/java/com/example/librarydb/
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [sammm12349](https://github.com/sammm12349)
+- LinkedIn: [Samuel Spear](www.linkedin.com/in/samuel-spear-094606246)
 
 ## License
 
